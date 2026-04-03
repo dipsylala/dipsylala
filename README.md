@@ -14,8 +14,8 @@ I build tools and automation for application security, with a particular focus o
 - **[veracode-tui](https://github.com/dipsylala/veracode-tui)** - Terminal User Interface for Veracode (Go)
 - **[veracode-skills](https://github.com/dipsylala/veracode-skills)** & **[veracode-agents](https://github.com/dipsylala/veracode-agents)** - Skills and agents for Veracode automation for the MCP
 - **[veracode-compensating-controls](https://github.com/dipsylala/veracode-compensating-controls)** - A Skill for managing compensating controls for Veracode findings
-- **[veracode-pipeline-results](https://github.com/dipsylala/veracode-pipeline-results)** - Pipeline results automation (Python)
-- **[veracode-local-sca-results](https://github.com/dipsylala/veracode-local-sca-results)** - Local SCA results processing (Python)
+- **[veracode-pipeline-results](https://github.com/dipsylala/veracode-pipeline-results)** - A Skill for working with Pipeline results (Python)
+- **[veracode-local-sca-results](https://github.com/dipsylala/veracode-local-sca-results)** - A Skill for working with Local SCA results (Python)
 - **[github-dorks](https://github.com/dipsylala/github-dorks)** - Large-scale GitHub security searches
 - **[security-headers-checker](https://github.com/dipsylala/security-headers-checker)** - Score security headers including COOP/COEP
 
