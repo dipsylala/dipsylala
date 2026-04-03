@@ -28,7 +28,7 @@ I build tools and automation for application security, with a particular focus o
 
 - **[threadfun](https://github.com/dipsylala/threadfun)** - Thread idioms reminder (C/Go/C#)
 - **[FlawFixingGuidance](https://dipsylala.github.io/FlawFixingGuidance/)** - My notes from a couple decades of fixing security issues
-- **[PentestingNotes](https://github.com/dipsylala/PentestingNotes)** - Organized pentesting notes
+- **[PentestingNotes](https://dipsylala.github.io/PentestingNotes/)** - Organized pentesting notes
 - **[streamdeck-big-clock](https://github.com/dipsylala/streamdeck-big-clock)** - Stream Deck plugin (TypeScript)
 
 ## 💻 Tech Stack
