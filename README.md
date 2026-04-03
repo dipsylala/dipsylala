@@ -2,8 +2,6 @@
 
 > Application Security Consultant | Pentester | Tool Builder
 
-[![Mastodon](https://img.shields.io/badge/Mastodon-@BranMacMuffin-6364FF?style=flat&logo=mastodon&logoColor=white)](https://ioc.exchange/@BranMacMuffin)
-
 ## 🔐 What I Do
 
 I build tools and automation for application security, with a particular focus on Veracode platform integrations and security tooling. My work spans from terminal UIs and MCP servers to security libraries and pentesting automation.
@@ -14,8 +12,8 @@ I build tools and automation for application security, with a particular focus o
 
 - **[veracode-mcp](https://github.com/dipsylala/veracode-mcp)** - MCP Server for Veracode integration ⭐
 - **[veracode-tui](https://github.com/dipsylala/veracode-tui)** - Terminal User Interface for Veracode (Go)
-- **[veracode-skills](https://github.com/dipsylala/veracode-skills)** & **[veracode-agents](https://github.com/dipsylala/veracode-agents)** - Skills and agents for Veracode automation
-- **[veracode-compensating-controls](https://github.com/dipsylala/veracode-compensating-controls)** - Manage compensating controls for Veracode findings
+- **[veracode-skills](https://github.com/dipsylala/veracode-skills)** & **[veracode-agents](https://github.com/dipsylala/veracode-agents)** - Skills and agents for Veracode automation for the MCP
+- **[veracode-compensating-controls Skill](https://github.com/dipsylala/veracode-compensating-controls)** - Manage compensating controls for Veracode findings
 - **[veracode-pipeline-results](https://github.com/dipsylala/veracode-pipeline-results)** - Pipeline results automation (Python)
 - **[veracode-local-sca-results](https://github.com/dipsylala/veracode-local-sca-results)** - Local SCA results processing (Python)
 - **[github-dorks](https://github.com/dipsylala/github-dorks)** - Large-scale GitHub security searches
@@ -28,7 +26,8 @@ I build tools and automation for application security, with a particular focus o
 
 ### Other Projects
 
-- **[threadfun](https://github.com/dipsylala/threadfun)** - Thread idioms reminder (C)
+- **[threadfun](https://github.com/dipsylala/threadfun)** - Thread idioms reminder (C/Go/C#)
+- **[FlawFixingGuidance](https://dipsylala.github.io/FlawFixingGuidance/)** - My notes from a couple decades of fixing security issues
 - **[PentestingNotes](https://github.com/dipsylala/PentestingNotes)** - Organized pentesting notes
 - **[streamdeck-big-clock](https://github.com/dipsylala/streamdeck-big-clock)** - Stream Deck plugin (TypeScript)
 
@@ -40,13 +39,9 @@ Focus:       Application Security | Security Automation | Pentesting
 Tools:       Veracode | MCP | Terminal UIs | Security Analysis
 ```
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dipsylala&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
 ## 🏆 Achievements
 
-🎯 Arctic Code Vault Contributor | 🦈 Pull Shark x2 | ⭐ Starstruck | 🎲 YOLO
+🎯 Arctic Code Vault Contributor | 🦈 Pull Shark | ⭐ Starstruck | 🎲 YOLO
 
 ## 📫 Let's Connect
 
