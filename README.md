@@ -11,12 +11,12 @@ I build tools and automation for application security, with a particular focus o
 ### Security & Veracode Ecosystem
 
 - **[veracode-mcp](https://github.com/dipsylala/veracode-mcp)** - MCP Server for Veracode integration ⭐
-- **[veracode-tui](https://github.com/dipsylala/veracode-tui)** - Terminal User Interface for Veracode (Go)
 - **[veracode-skills](https://github.com/dipsylala/veracode-skills)** & **[veracode-agents](https://github.com/dipsylala/veracode-agents)** - Skills and agents for Veracode automation for the MCP
 - **[veracode-compensating-controls](https://github.com/dipsylala/veracode-compensating-controls)** - A Skill for managing compensating controls for Veracode findings
 - **[veracode-pipeline-results](https://github.com/dipsylala/veracode-pipeline-results)** - A Skill for working with Pipeline results (Python)
 - **[veracode-local-sca-results](https://github.com/dipsylala/veracode-local-sca-results)** - A Skill for working with Local SCA results (Python)
-- **[github-dorks](https://github.com/dipsylala/github-dorks)** - Large-scale GitHub security searches
+- **[veracode-tui](https://github.com/dipsylala/veracode-tui)** - Terminal User Interface for Veracode (Go)
+- **[github-dorks](https://github.com/dipsylala/github-dorks)** - Large-scale GitHub security searches to feed into SAST scanners
 - **[security-headers-checker](https://github.com/dipsylala/security-headers-checker)** - Score security headers including COOP/COEP
 
 ### Security Libraries
@@ -26,7 +26,7 @@ I build tools and automation for application security, with a particular focus o
 
 ### Other Projects
 
-- **[threadfun](https://github.com/dipsylala/threadfun)** - Thread idioms reminder (C/Go/C#)
+- **[threadfun](https://github.com/dipsylala/threadfun)** - Thread idioms reminders (C/Go/C#)
 - **[FlawFixingGuidance](https://dipsylala.github.io/FlawFixingGuidance/)** - My notes from a couple decades of fixing security issues
 - **[PentestingNotes](https://dipsylala.github.io/PentestingNotes/)** - Organized pentesting notes
 - **[streamdeck-big-clock](https://github.com/dipsylala/streamdeck-big-clock)** - Stream Deck plugin (TypeScript)
