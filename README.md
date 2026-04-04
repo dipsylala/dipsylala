@@ -37,7 +37,7 @@ I build tools and automation for application security, with a particular focus o
 ```text
 Languages:   Go | C# | Python | JavaScript/TypeScript | C | PowerShell
 Focus:       Application Security | Security Automation | Pentesting
-Tools:       Veracode | MCP | Terminal UIs | Security Analysis
+Tools:       Veracode | MCP | Terminal UI | Security Analysis
 ```
 
 ## 🏆 Achievements
