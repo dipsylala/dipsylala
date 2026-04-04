@@ -53,5 +53,4 @@ Tools:       Veracode | MCP | Terminal UIs | Security Analysis
 ---
 
 <p align="center">
-  <i>Building secure software, one commit at a time</i>
-</p>
+  <i>Helping folks build secure software, one commit at a time</i></p>
