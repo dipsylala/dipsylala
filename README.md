@@ -26,7 +26,7 @@ I build tools and automation for application security, with a particular focus o
 
 ### Other Projects
 
-- **[threadfun](https://github.com/dipsylala/threadfun)** - Thread idioms reminders (C/Go/C#)
+- **[threadfun](https://github.com/dipsylala/threadfun)** - Thread idioms reminders (Win32 C/Go/C#)
 - **[FlawFixingGuidance](https://dipsylala.github.io/FlawFixingGuidance/)** - My notes from a couple decades of fixing security issues
 - **[PentestingNotes](https://dipsylala.github.io/PentestingNotes/)** - Organized pentesting notes
 - **[streamdeck-big-clock](https://github.com/dipsylala/streamdeck-big-clock)** - Stream Deck plugin (TypeScript)
@@ -38,7 +38,7 @@ I build tools and automation for application security, with a particular focus o
 ```text
 Languages:   Go | C# | Python | JavaScript/TypeScript | C | PowerShell
 Focus:       Application Security | Security Automation | Pentesting
-Tools:       Veracode | MCP | Terminal UIs | Security Analysis
+Tools:       Veracode | MCP | Terminal UI | Security Analysis
 ```
 
 ## 🏆 Achievements
@@ -54,5 +54,4 @@ Tools:       Veracode | MCP | Terminal UIs | Security Analysis
 ---
 
 <p align="center">
-  <i>Building secure software, one commit at a time</i>
-</p>
+  <i>Helping folks build secure software, one commit at a time</i></p>
