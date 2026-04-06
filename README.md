@@ -31,6 +31,7 @@ I build tools and automation for application security, with a particular focus o
 - **[PentestingNotes](https://dipsylala.github.io/PentestingNotes/)** - Organized pentesting notes
 - **[streamdeck-big-clock](https://github.com/dipsylala/streamdeck-big-clock)** - Stream Deck plugin (TypeScript)
 - **[disneyland-railroad-simulator](https://github.com/dipsylala/disneyland-railroad-simulator)** - Arduino controller software for WS2812 LEDs, set up for a Disneyland Railroad map. Includes ReactJS representation (C/JS)
+- **[polymarket-monitor](https://github.com/dipsylala/polymarket-monitor)** - Detects potential insider trading on Polymarket by scoring wallet behavior, tracking known insiders, and alerting on cluster activity (Python)
 
 ## 💻 Tech Stack
 
