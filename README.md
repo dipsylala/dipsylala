@@ -17,7 +17,7 @@ I build tools and automation for application security, with a particular focus o
 - **[veracode-pipeline-results](https://github.com/dipsylala/veracode-pipeline-results)** - A Skill for working with Veracode Pipeline results (includes Python scripts)
 - **[veracode-local-sca-results](https://github.com/dipsylala/veracode-local-sca-results)** - A Skill for working with Veracode Local SCA results (includes Python scripts)
 - **[veracode-tui](https://github.com/dipsylala/veracode-tui)** - Terminal User Interface for Veracode (Go)
-- **[github-dorks](https://github.com/dipsylala/github-dorks)** - Large-scale GitHub security searches to feed into SAST scanners (Python)
+- **[vulnerability-hunting-pipeline](https://github.com/dipsylala/vulnerability-hunting-pipeline)** - Large-scale GitHub security searches to feed into SAST scanners (Python)
 - **[security-headers-checker](https://github.com/dipsylala/security-headers-checker)** - Score security headers including COOP/COEP (JavaScript)
 
 ### Security Libraries
