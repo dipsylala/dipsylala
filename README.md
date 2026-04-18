@@ -4,7 +4,7 @@
 
 ## 🔐 What I Do
 
-I build tools and automation for application security, with a particular focus on Veracode platform integrations and security tooling. My work spans from terminal UIs and MCP servers to security libraries and pentesting automation.
+I build tools and automation for application security, with a particular focus on Veracode platform integrations and security tooling. My work spans from fun work with LEDs, to MCP servers, security libraries and pentesting automation.
 
 ## 🚀 Featured Projects
 
