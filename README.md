@@ -4,20 +4,20 @@
 
 ## 🔐 What I Do
 
-I build tools and automation for application security, with a particular focus on Veracode platform integrations and security tooling. My work spans from terminal UIs and MCP servers to security libraries and pentesting automation.
+I build tools and automation for application security, with a particular focus on Veracode platform integrations and security tooling. My work spans from fun work with LEDs, to MCP servers, security libraries and pentesting automation.
 
 ## 🚀 Featured Projects
 
 ### Security & Veracode Ecosystem
 
-- **[cwe-advisor](https://github.com/dipsylala/cwe-advisor)** - A Skill for educating developers about CWE vulnerabilities and guiding remediation, with language-specific guidance (Java, Python, JavaScript, C#, PHP, Perl) organised by CWE ID
 - **[veracode-mcp](https://github.com/dipsylala/veracode-mcp)** - MCP Server for Veracode integration ⭐
 - **[veracode-skills](https://github.com/dipsylala/veracode-skills)** & **[veracode-agents](https://github.com/dipsylala/veracode-agents)** - Skills and agents for Veracode automation for the MCP
+- **[cwe-advisor](https://github.com/dipsylala/cwe-advisor)** - A scanner-agnostic Skill for educating developers about CWE vulnerabilities and guiding remediation, with language-specific guidance (Java, Python, JavaScript, C#, PHP, Perl) organised by CWE ID
 - **[veracode-compensating-controls](https://github.com/dipsylala/veracode-compensating-controls)** - A Skill for managing compensating controls for Veracode findings
-- **[veracode-pipeline-results](https://github.com/dipsylala/veracode-pipeline-results)** - A Skill for working with Pipeline results (Python)
-- **[veracode-local-sca-results](https://github.com/dipsylala/veracode-local-sca-results)** - A Skill for working with Local SCA results (Python)
+- **[veracode-pipeline-results](https://github.com/dipsylala/veracode-pipeline-results)** - A Skill for working with Veracode Pipeline results (includes Python scripts)
+- **[veracode-local-sca-results](https://github.com/dipsylala/veracode-local-sca-results)** - A Skill for working with Veracode Local SCA results (includes Python scripts)
 - **[veracode-tui](https://github.com/dipsylala/veracode-tui)** - Terminal User Interface for Veracode (Go)
-- **[github-dorks](https://github.com/dipsylala/github-dorks)** - Large-scale GitHub security searches to feed into SAST scanners
+- **[vulnerability-hunting-pipeline](https://github.com/dipsylala/vulnerability-hunting-pipeline)** - Large-scale GitHub security searches to feed into SAST scanners (Python)
 - **[security-headers-checker](https://github.com/dipsylala/security-headers-checker)** - Score security headers including COOP/COEP
 - **[exploit-db-skill](https://github.com/dipsylala/exploit-db-skill)** - A Skill for searching Exploit-DB metadata for CVE/code matches and EDB entries
 
