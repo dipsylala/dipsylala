@@ -19,6 +19,7 @@ I build tools and automation for application security, with a particular focus o
 - **[veracode-tui](https://github.com/dipsylala/veracode-tui)** - Terminal User Interface for Veracode (Go)
 - **[github-dorks](https://github.com/dipsylala/github-dorks)** - Large-scale GitHub security searches to feed into SAST scanners
 - **[security-headers-checker](https://github.com/dipsylala/security-headers-checker)** - Score security headers including COOP/COEP
+- **[exploit-db-skill](https://github.com/dipsylala/exploit-db-skill)** - A Skill for searching Exploit-DB metadata for CVE/code matches and EDB entries
 
 ### Security Libraries
 
