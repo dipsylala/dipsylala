@@ -16,9 +16,9 @@ I build tools and automation for application security, with a particular focus o
 
 ### 🔒 Veracode Tools
 
-- **[veracode-mcp](https://github.com/dipsylala/veracode-mcp)** - MCP Server for Veracode integration ⭐
-- **[veracode-skills](https://github.com/dipsylala/veracode-skills)** & **[veracode-agents](https://github.com/dipsylala/veracode-agents)** - Skills and agents for Veracode automation for the MCP
 - **[veracode-tui](https://github.com/dipsylala/veracode-tui)** - Terminal User Interface for Veracode (Go)
+- **[veracode-mcp](https://github.com/dipsylala/veracode-mcp)** - MCP Server for Veracode integration ⭐
+- **[veracode-skills](https://github.com/dipsylala/veracode-skills)** & **[veracode-agents](https://github.com/dipsylala/veracode-agents)** - Skills and agents for Veracode automation of the MCP
 - **[veracode-compensating-controls](https://github.com/dipsylala/veracode-compensating-controls)** - A Skill for managing compensating controls for Veracode findings
 - **[veracode-pipeline-results](https://github.com/dipsylala/veracode-pipeline-results)** - A Skill for working with Veracode Pipeline results (includes Python scripts)
 - **[veracode-local-sca-results](https://github.com/dipsylala/veracode-local-sca-results)** - A Skill for working with Veracode Local SCA results (includes Python scripts)
