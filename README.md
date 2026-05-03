@@ -8,25 +8,32 @@ I build tools and automation for application security, with a particular focus o
 
 ## 🚀 Featured Projects
 
-### Security & Veracode Ecosystem
+### 🤖 AI / MCP Skills & Agents
 
 - **[veracode-mcp](https://github.com/dipsylala/veracode-mcp)** - MCP Server for Veracode integration ⭐
 - **[veracode-skills](https://github.com/dipsylala/veracode-skills)** & **[veracode-agents](https://github.com/dipsylala/veracode-agents)** - Skills and agents for Veracode automation for the MCP
+- **[skills](https://github.com/dipsylala/skills/)** - A collection of [Agent Skills](https://agentskills.io) (open standard) for VS Code, Cursor, Claude Code, Roo Code, Gemini CLI and more — including `code-guardian`, `grill-me`, `write-a-prd`, and `write-a-skill`
 - **[cwe-advisor](https://github.com/dipsylala/cwe-advisor)** - A scanner-agnostic Skill for educating developers about CWE vulnerabilities and guiding remediation, with language-specific guidance (Java, Python, JavaScript, C#, PHP, Perl) organised by CWE ID
 - **[veracode-compensating-controls](https://github.com/dipsylala/veracode-compensating-controls)** - A Skill for managing compensating controls for Veracode findings
 - **[veracode-pipeline-results](https://github.com/dipsylala/veracode-pipeline-results)** - A Skill for working with Veracode Pipeline results (includes Python scripts)
 - **[veracode-local-sca-results](https://github.com/dipsylala/veracode-local-sca-results)** - A Skill for working with Veracode Local SCA results (includes Python scripts)
-- **[veracode-tui](https://github.com/dipsylala/veracode-tui)** - Terminal User Interface for Veracode (Go)
-- **[vulnerability-hunting-pipeline](https://github.com/dipsylala/vulnerability-hunting-pipeline)** - Large-scale GitHub security searches to feed into SAST scanners (Python)
-- **[security-headers-checker](https://github.com/dipsylala/security-headers-checker)** - Score security headers including COOP/COEP
 - **[exploit-db-skill](https://github.com/dipsylala/exploit-db-skill)** - A Skill for searching Exploit-DB metadata for CVE/code matches and EDB entries
 
-### Security Libraries
+### 🔒 Veracode Tools
+
+- **[veracode-tui](https://github.com/dipsylala/veracode-tui)** - Terminal User Interface for Veracode (Go)
+
+### 🛡️ Security Tools & Research
+
+- **[vulnerability-hunting-pipeline](https://github.com/dipsylala/vulnerability-hunting-pipeline)** - Large-scale GitHub security searches to feed into SAST scanners (Python)
+- **[security-headers-checker](https://github.com/dipsylala/security-headers-checker)** - Score security headers including COOP/COEP
+
+### 📚 Security Libraries
 
 - **[Dipsy.Security.MemoryProtection](https://github.com/dipsylala/Dipsy.Security.MemoryProtection)** - Runtime memory protection for sensitive strings (C#)
 - **[Dipsy.Security.Ldap](https://github.com/dipsylala/Dipsy.Security.Ldap)** - LDAP encoding library (C#)
 
-### Other Projects
+### 🧰 Other Projects
 
 - **[threadfun](https://github.com/dipsylala/threadfun)** - Thread idioms reminders (Win32 C/Go/C#)
 - **[FlawFixingGuidance](https://dipsylala.github.io/FlawFixingGuidance/)** - My notes from a couple decades of fixing security issues
