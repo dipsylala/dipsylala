@@ -27,6 +27,9 @@ I build tools and automation for application security, with a particular focus o
 
 - **[vulnerability-hunting-pipeline](https://github.com/dipsylala/vulnerability-hunting-pipeline)** - Large-scale GitHub security searches to feed into SAST scanners (Python)
 - **[security-headers-checker](https://github.com/dipsylala/security-headers-checker)** - Score security headers including COOP/COEP
+- **[FlawFixingGuidance](https://dipsylala.github.io/FlawFixingGuidance/)** - My notes from a couple decades of fixing security issues
+- **[PentestingNotes](https://dipsylala.github.io/PentestingNotes/)** - Organized pentesting notes
+
 
 ### 📚 Security Libraries
 
@@ -36,8 +39,6 @@ I build tools and automation for application security, with a particular focus o
 ### 🧰 Other Projects
 
 - **[threadfun](https://github.com/dipsylala/threadfun)** - Thread idioms reminders (Win32 C/Go/C#)
-- **[FlawFixingGuidance](https://dipsylala.github.io/FlawFixingGuidance/)** - My notes from a couple decades of fixing security issues
-- **[PentestingNotes](https://dipsylala.github.io/PentestingNotes/)** - Organized pentesting notes
 - **[streamdeck-big-clock](https://github.com/dipsylala/streamdeck-big-clock)** - Stream Deck plugin (TypeScript)
 - **[disneyland-railroad-simulator](https://github.com/dipsylala/disneyland-railroad-simulator)** - Arduino controller software for WS2812 LEDs, set up for a Disneyland Railroad map. Includes ReactJS representation (C/JS)
 - **[polymarket-monitor](https://github.com/dipsylala/polymarket-monitor)** - Detects potential insider trading on Polymarket by scoring wallet behavior, tracking known insiders, and alerting on cluster activity (Python)
