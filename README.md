@@ -10,20 +10,20 @@ I build tools and automation for application security, with a particular focus o
 
 ### 🤖 General AI Skills & Agents
 
-- **[skills](https://github.com/dipsylala/skills/)** - A collection of [Agent Skills](https://agentskills.io) (open standard) for VS Code, Cursor, Claude Code, Roo Code, Gemini CLI and more — including `code-guardian`, `grill-me`, `write-a-prd`, and `write-a-skill`
+- **[skills](https://github.com/dipsylala/skills/)** - A collection of [Agent Skills](https://agentskills.io) (open standard) for VS Code, Cursor, Claude Code, Roo Code, Gemini CLI and more - including `code-guardian`, `grill-me`, `write-a-prd`, and `write-a-skill`
 - **[cwe-advisor](https://github.com/dipsylala/cwe-advisor)** - A scanner-agnostic Skill for educating developers about CWE vulnerabilities and guiding remediation, with language-specific guidance (Java, Python, JavaScript, C#, PHP, Perl) organised by CWE ID
 - **[exploit-db-skill](https://github.com/dipsylala/exploit-db-skill)** - A Skill for searching Exploit-DB metadata for CVE/code matches and EDB entries
 
 ### 🔒 Veracode Tools
 
 - **[veracode-tui](https://github.com/dipsylala/veracode-tui)** - Terminal User Interface for Veracode (Go)
-- **[veracode-api](https://github.com/dipsylala/veracode-api)** - Single-binary CLI for querying Veracode platform findings (SAST, DAST, SCA) via the REST API — no runtime dependencies (Go)
+- **[veracode-api](https://github.com/dipsylala/veracode-api)** - Single-binary CLI for querying Veracode platform findings (SAST, DAST, SCA) via the REST API - no runtime dependencies (Go)
 - **[veracode-mcp](https://github.com/dipsylala/veracode-mcp)** - MCP Server for Veracode integration ⭐
 - **[veracode-skills](https://github.com/dipsylala/veracode-skills)** & **[veracode-agents](https://github.com/dipsylala/veracode-agents)** - Skills and agents for Veracode automation of the MCP
 - **[veracode-compensating-controls](https://github.com/dipsylala/veracode-compensating-controls)** - A Skill for managing compensating controls for Veracode findings
 - **[veracode-pipeline-results](https://github.com/dipsylala/veracode-pipeline-results)** - A Skill for working with Veracode Pipeline results (includes Python scripts)
 - **[veracode-local-sca-results](https://github.com/dipsylala/veracode-local-sca-results)** - A Skill for working with Veracode Local SCA results (includes Python scripts)
-- **[veracode-platform-results](https://github.com/dipsylala/veracode-platform-results)** - A Skill for querying and interpreting Veracode platform SAST, DAST, and SCA results via the Findings API — companion to `veracode-pipeline-results`
+- **[veracode-platform-results](https://github.com/dipsylala/veracode-platform-results)** - A Skill for querying and interpreting Veracode platform SAST, DAST, and SCA results via the Findings API - companion to `veracode-pipeline-results`
 
 ### 🛡️ Security Tools & Research
 
