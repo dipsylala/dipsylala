@@ -8,30 +8,41 @@ I build tools and automation for application security, with a particular focus o
 
 ## 🚀 Featured Projects
 
-### Security & Veracode Ecosystem
+### 🤖 General AI Skills & Agents
 
-- **[veracode-mcp](https://github.com/dipsylala/veracode-mcp)** - MCP Server for Veracode integration ⭐
-- **[veracode-skills](https://github.com/dipsylala/veracode-skills)** & **[veracode-agents](https://github.com/dipsylala/veracode-agents)** - Skills and agents for Veracode automation for the MCP
+- **[skills](https://github.com/dipsylala/skills/)** - A collection of [Agent Skills](https://agentskills.io) (open standard) for VS Code, Cursor, Claude Code, Roo Code, Gemini CLI and more - including `code-guardian`, `grill-me`, `write-a-prd`, and `write-a-skill`
 - **[cwe-advisor](https://github.com/dipsylala/cwe-advisor)** - A scanner-agnostic Skill for educating developers about CWE vulnerabilities and guiding remediation, with language-specific guidance (Java, Python, JavaScript, C#, PHP, Perl) organised by CWE ID
+- **[exploit-db-skill](https://github.com/dipsylala/exploit-db-skill)** - A Skill for searching Exploit-DB metadata for CVE/code matches and EDB entries
+
+### 🔒 Veracode Tools
+
+- **[veracode-tui](https://github.com/dipsylala/veracode-tui)** - Terminal User Interface for Veracode (Go)
+- **[veracode-api](https://github.com/dipsylala/veracode-api)** - Single-binary CLI for querying Veracode platform findings (SAST, DAST, SCA) via the REST API - no runtime dependencies (Go)
+- **[veracode-mcp](https://github.com/dipsylala/veracode-mcp)** - MCP Server for Veracode integration ⭐
+- **[veracode-skills](https://github.com/dipsylala/veracode-skills)** & **[veracode-agents](https://github.com/dipsylala/veracode-agents)** - Skills and agents for Veracode automation of the MCP
 - **[veracode-compensating-controls](https://github.com/dipsylala/veracode-compensating-controls)** - A Skill for managing compensating controls for Veracode findings
 - **[veracode-pipeline-results](https://github.com/dipsylala/veracode-pipeline-results)** - A Skill for working with Veracode Pipeline results (includes Python scripts)
 - **[veracode-local-sca-results](https://github.com/dipsylala/veracode-local-sca-results)** - A Skill for working with Veracode Local SCA results (includes Python scripts)
-- **[veracode-tui](https://github.com/dipsylala/veracode-tui)** - Terminal User Interface for Veracode (Go)
+- **[veracode-platform-results](https://github.com/dipsylala/veracode-platform-results)** - A Skill for querying and interpreting Veracode platform SAST, DAST, and SCA results via the Findings API - companion to `veracode-pipeline-results`
+
+### 🛡️ Security Tools & Research
+
 - **[vulnerability-hunting-pipeline](https://github.com/dipsylala/vulnerability-hunting-pipeline)** - Large-scale GitHub security searches to feed into SAST scanners (Python)
 - **[sast-llm-triage](https://github.com/dipsylala/sast-llm-triage)** - CLI tool that scans a Git repository with Veracode, Semgrep, or Snyk Code, enriches and scores findings, and outputs structured JSON ready for LLM-assisted exploitability triage via any LLM agent (Python)
 - **[security-headers-checker](https://github.com/dipsylala/security-headers-checker)** - Score security headers including COOP/COEP
-- **[exploit-db-skill](https://github.com/dipsylala/exploit-db-skill)** - A Skill for searching Exploit-DB metadata for CVE/code matches and EDB entries
+- **[FlawFixingGuidance](https://dipsylala.github.io/FlawFixingGuidance/)** - My notes from a couple decades of fixing security issues
+- **[PentestingNotes](https://dipsylala.github.io/PentestingNotes/)** - Organized pentesting notes
 
-### Security Libraries
+
+### 📚 Security Libraries
 
 - **[Dipsy.Security.MemoryProtection](https://github.com/dipsylala/Dipsy.Security.MemoryProtection)** - Runtime memory protection for sensitive strings (C#)
 - **[Dipsy.Security.Ldap](https://github.com/dipsylala/Dipsy.Security.Ldap)** - LDAP encoding library (C#)
 
-### Other Projects
+### 🧰 Other Projects
 
+- **[scale-helper](https://github.com/dipsylala/scale-helper)** - Web app for visualising guitar scales on a fretboard diagram. Pick a tuning, scale, and root note — see every note across the full neck with highlighted root tones and switchable labels (dots / note names / scale degrees). [Live site](https://dipsylala.github.io/scale-helper/) (TypeScript/Vite)
 - **[threadfun](https://github.com/dipsylala/threadfun)** - Thread idioms reminders (Win32 C/Go/C#)
-- **[FlawFixingGuidance](https://dipsylala.github.io/FlawFixingGuidance/)** - My notes from a couple decades of fixing security issues
-- **[PentestingNotes](https://dipsylala.github.io/PentestingNotes/)** - Organized pentesting notes
 - **[streamdeck-big-clock](https://github.com/dipsylala/streamdeck-big-clock)** - Stream Deck plugin (TypeScript)
 - **[disneyland-railroad-simulator](https://github.com/dipsylala/disneyland-railroad-simulator)** - Arduino controller software for WS2812 LEDs, set up for a Disneyland Railroad map. Includes ReactJS representation (C/JS)
 - **[polymarket-monitor](https://github.com/dipsylala/polymarket-monitor)** - Detects potential insider trading on Polymarket by scoring wallet behavior, tracking known insiders, and alerting on cluster activity (Python)
