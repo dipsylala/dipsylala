@@ -44,7 +44,7 @@ I build tools and automation for application security, with a particular focus o
 - **[scale-helper](https://github.com/dipsylala/scale-helper)** - Web app for visualising guitar scales on a fretboard diagram. Pick a tuning, scale, and root note — see every note across the full neck with highlighted root tones and switchable labels (dots / note names / scale degrees). [Live site](https://dipsylala.github.io/scale-helper/) (TypeScript/Vite)
 - **[threadfun](https://github.com/dipsylala/threadfun)** - Thread idioms reminders (Win32 C/Go/C#)
 - **[streamdeck-big-clock](https://github.com/dipsylala/streamdeck-big-clock)** - Stream Deck plugin (TypeScript)
-- **[disneyland-railroad-simulator](https://github.com/dipsylala/disneyland-railroad-simulator)** - Arduino controller software for WS2812 LEDs, set up for a Disneyland Railroad map. Includes ReactJS representation (C/JS)
+- **[disneyland-railroad-simulator](https://github.com/dipsylala/disneyland-railroad-simulator)** - Arduino controller software for WS2812 LEDs, set up for a Disneyland Railroad map. Includes ReactJS representation (C/JS). [Live site](https://dipsylala.github.io/disneyland-railroad-simulator/)
 - **[polymarket-monitor](https://github.com/dipsylala/polymarket-monitor)** - Detects potential insider trading on Polymarket by scoring wallet behavior, tracking known insiders, and alerting on cluster activity (Python)
 
 ## 💻 Tech Stack
