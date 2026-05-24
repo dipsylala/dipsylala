@@ -28,11 +28,10 @@ I build tools and automation for application security, with a particular focus o
 ### 🛡️ Security Tools & Research
 
 - **[vulnerability-hunting-pipeline](https://github.com/dipsylala/vulnerability-hunting-pipeline)** - Large-scale GitHub security searches to feed into SAST scanners (Python)
-- **[sast-llm-triage](https://github.com/dipsylala/sast-llm-triage)** - CLI tool that scans a Git repository with Veracode, Semgrep, or Snyk Code, enriches and scores findings, and outputs structured JSON ready for LLM-assisted exploitability triage via any LLM agent (Python)
+- **[sast-llm-triage](https://github.com/dipsylala/sast-llm-triage)** - CLI tool that scans a Git repository with Veracode, Semgrep, or Snyk Code, enriches the findings, and writes a structured `combined_results.json` ready for LLM-assisted exploitability triage. Includes an LLM agent that overlays reasoning over the deterministic SAST findings (Python)
 - **[security-headers-checker](https://github.com/dipsylala/security-headers-checker)** - Score security headers including COOP/COEP
 - **[FlawFixingGuidance](https://dipsylala.github.io/FlawFixingGuidance/)** - My notes from a couple decades of fixing security issues
 - **[PentestingNotes](https://dipsylala.github.io/PentestingNotes/)** - Organized pentesting notes
-
 
 ### 📚 Security Libraries
 
