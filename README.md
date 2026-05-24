@@ -18,6 +18,7 @@ I build tools and automation for application security, with a particular focus o
 - **[veracode-local-sca-results](https://github.com/dipsylala/veracode-local-sca-results)** - A Skill for working with Veracode Local SCA results (includes Python scripts)
 - **[veracode-tui](https://github.com/dipsylala/veracode-tui)** - Terminal User Interface for Veracode (Go)
 - **[vulnerability-hunting-pipeline](https://github.com/dipsylala/vulnerability-hunting-pipeline)** - Large-scale GitHub security searches to feed into SAST scanners (Python)
+- **[sast-llm-triage](https://github.com/dipsylala/sast-llm-triage)** - CLI tool that scans a Git repository with Veracode, Semgrep, or Snyk Code, enriches and scores findings, and outputs structured JSON ready for LLM-assisted exploitability triage via any LLM agent (Python)
 - **[security-headers-checker](https://github.com/dipsylala/security-headers-checker)** - Score security headers including COOP/COEP
 - **[exploit-db-skill](https://github.com/dipsylala/exploit-db-skill)** - A Skill for searching Exploit-DB metadata for CVE/code matches and EDB entries
 
