@@ -27,7 +27,7 @@ I build tools and automation for application security, with a particular focus o
 
 ### 🛡️ Security Tools & Research
 
-- **[ghas-mcp](https://github.com/dipsylala/ghas-mcp)** - MCP Server for GitHub Advanced Security — read-only access to code scanning, Dependabot, and secret scanning alerts. Single static binary, no runtime dependencies (Go)
+- **[ghas-mcp](https://github.com/dipsylala/ghas-mcp)** - MCP Server for GitHub Advanced Security — read-only access to code scanning, Dependabot, and secret scanning alerts (Go)
 - **[vulnerability-hunting-pipeline](https://github.com/dipsylala/vulnerability-hunting-pipeline)** - Large-scale GitHub security searches to feed into SAST scanners (Python)
 - **[sast-llm-triage](https://github.com/dipsylala/sast-llm-triage)** - A CLI tool that runs SAST scanners (Veracode, Semgrep, or Snyk) against a Git repo and enriches findings into structured JSON for triage. Supports both IDE-agent workflows and direct LLM-assisted exploitability analysis via LiteLLM across any provider (OpenAI, Anthropic, etc.) (Python)
 - **[security-headers-checker](https://github.com/dipsylala/security-headers-checker)** - Score security headers including COOP/COEP
