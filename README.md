@@ -11,7 +11,7 @@ I build tools and automation for application security, with a particular focus o
 ### 🤖 General AI Skills & Agents
 
 - **[skills](https://github.com/dipsylala/skills/)** - A collection of [Agent Skills](https://agentskills.io) (open standard) for VS Code, Cursor, Claude Code, Roo Code, Gemini CLI and more - including `code-guardian`, `grill-me`, `write-a-prd`, and `write-a-skill`
-- **[cwe-advisor](https://github.com/dipsylala/cwe-advisor)** - A scanner-agnostic Skill for educating developers about CWE vulnerabilities and guiding remediation, with language-specific guidance (Java, Python, JavaScript, C#, PHP, Perl) organised by CWE ID. Test cases, results, and a means to compare non-guided vs guided are in [cwe-advisor-evals](https://github.com/dipsylala/cwe-advisor-evals/)
+- **[cwe-advisor](https://github.com/dipsylala/cwe-advisor)** - A scanner-agnostic Skill for educating developers about CWE vulnerabilities and guiding remediation, with language-specific guidance (Java, Python, JavaScript, C#, PHP, Perl) organised by CWE ID. Test cases, results, and a means to compare non-guided vs guided are in **[cwe-advisor-evals](https://github.com/dipsylala/cwe-advisor-evals/)**
 - **[exploit-db-skill](https://github.com/dipsylala/exploit-db-skill)** - A Skill for searching Exploit-DB metadata for CVE/code matches and EDB entries
 - **[claude-rules](https://github.com/dipsylala/claude-rules)** - A base set of rules for Claude
 
