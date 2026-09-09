@@ -47,6 +47,7 @@ I build tools and automation for application security, with a particular focus o
 - **[streamdeck-big-clock](https://github.com/dipsylala/streamdeck-big-clock)** - Stream Deck plugin (TypeScript)
 - **[disneyland-railroad-simulator](https://github.com/dipsylala/disneyland-railroad-simulator)** - Arduino controller software for WS2812 LEDs, set up for a Disneyland Railroad map. Includes ReactJS representation. [Live site](https://dipsylala.github.io/disneyland-railroad-simulator/) (C/JavaScript)
 - **[polymarket-monitor](https://github.com/dipsylala/polymarket-monitor)** - Detects potential insider trading on Polymarket by scoring wallet behavior, tracking known insiders, and alerting on cluster activity (Python)
+- **[Higgins](https://github.com/dipsylala/Higgins)** - A voice-controlled desktop butler that transcribes locally, sends queries to Claude Code or a local Ollama model, and reads the reply back aloud with a local neural voice. Works on Windows, Linux, and macOS (Python)
 
 ## 💻 Tech Stack
 
