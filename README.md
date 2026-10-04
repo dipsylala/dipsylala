@@ -15,19 +15,6 @@ I build tools and automation for application security, with a particular focus o
 - **[exploit-db-skill](https://github.com/dipsylala/exploit-db-skill)** - A Skill for searching Exploit-DB metadata for CVE/code matches and EDB entries
 - **[claude-rules](https://github.com/dipsylala/claude-rules)** - A base set of rules for Claude
 
-### 🔒 Veracode Tools
-
-As of October 2026, I no longer have a Veracode license, so I can’t verify whether the following still works as Veracode’s technology stack evolves.
-
-- **[veracode-tui](https://github.com/dipsylala/veracode-tui)** - Terminal User Interface for Veracode (Go)
-- **[veracode-api](https://github.com/dipsylala/veracode-api)** - Single-binary CLI for querying Veracode platform findings (SAST, DAST, SCA) via the REST API - no runtime dependencies (Go)
-- **[veracode-mcp](https://github.com/dipsylala/veracode-mcp)** - MCP Server for Veracode integration ⭐
-- **[veracode-skills](https://github.com/dipsylala/veracode-skills)** & **[veracode-agents](https://github.com/dipsylala/veracode-agents)** - Skills and agents for Veracode automation of the MCP
-- **[veracode-compensating-controls](https://github.com/dipsylala/veracode-compensating-controls)** - A Skill for managing compensating controls for Veracode findings
-- **[veracode-pipeline-results](https://github.com/dipsylala/veracode-pipeline-results)** - A Skill for working with Veracode Pipeline results (includes Python scripts)
-- **[veracode-local-sca-results](https://github.com/dipsylala/veracode-local-sca-results)** - A Skill for working with Veracode Local SCA results (includes Python scripts)
-- **[veracode-platform-results](https://github.com/dipsylala/veracode-platform-results)** - A Skill for querying and interpreting Veracode platform SAST, DAST, and SCA results via the Findings API - companion to `veracode-pipeline-results`
-
 ### 🛡️ Security Tools & Research
 
 - **[ghas-mcp](https://github.com/dipsylala/ghas-mcp)** - MCP Server for GitHub Advanced Security — read-only access to code scanning, Dependabot, and secret scanning alerts (Go)
@@ -41,6 +28,20 @@ As of October 2026, I no longer have a Veracode license, so I can’t verify whe
 
 - **[Dipsy.Security.MemoryProtection](https://github.com/dipsylala/Dipsy.Security.MemoryProtection)** - Runtime memory protection for sensitive strings (C#)
 - **[Dipsy.Security.Ldap](https://github.com/dipsylala/Dipsy.Security.Ldap)** - LDAP encoding library (C#)
+
+### 🔒 Veracode Tools
+
+> [!NOTE]
+> As of October 2026, I no longer have a Veracode license, so I can't verify whether the following still works as Veracode's technology stack evolves.
+
+- **[veracode-tui](https://github.com/dipsylala/veracode-tui)** - Terminal User Interface for Veracode (Go)
+- **[veracode-api](https://github.com/dipsylala/veracode-api)** - Single-binary CLI for querying Veracode platform findings (SAST, DAST, SCA) via the REST API - no runtime dependencies (Go)
+- **[veracode-mcp](https://github.com/dipsylala/veracode-mcp)** - MCP Server for Veracode integration ⭐
+- **[veracode-skills](https://github.com/dipsylala/veracode-skills)** & **[veracode-agents](https://github.com/dipsylala/veracode-agents)** - Skills and agents for Veracode automation of the MCP
+- **[veracode-compensating-controls](https://github.com/dipsylala/veracode-compensating-controls)** - A Skill for managing compensating controls for Veracode findings
+- **[veracode-pipeline-results](https://github.com/dipsylala/veracode-pipeline-results)** - A Skill for working with Veracode Pipeline results (includes Python scripts)
+- **[veracode-local-sca-results](https://github.com/dipsylala/veracode-local-sca-results)** - A Skill for working with Veracode Local SCA results (includes Python scripts)
+- **[veracode-platform-results](https://github.com/dipsylala/veracode-platform-results)** - A Skill for querying and interpreting Veracode platform SAST, DAST, and SCA results via the Findings API - companion to `veracode-pipeline-results`
 
 ### 🧰 Other Projects
 
