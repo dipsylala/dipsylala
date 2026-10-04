@@ -29,7 +29,7 @@ I build tools and automation for application security, with a particular focus o
 - **[Dipsy.Security.MemoryProtection](https://github.com/dipsylala/Dipsy.Security.MemoryProtection)** - Runtime memory protection for sensitive strings (C#)
 - **[Dipsy.Security.Ldap](https://github.com/dipsylala/Dipsy.Security.Ldap)** - LDAP encoding library (C#)
 
-### 🔒 Veracode Tools
+### 🔒 Veracode Tools [Now Unsupported]
 
 > [!NOTE]
 > As of October 2026, I no longer have a Veracode license, so I can't verify whether the following still works as Veracode's technology stack evolves.
