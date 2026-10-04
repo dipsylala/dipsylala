@@ -32,7 +32,7 @@ I build tools and automation for application security, with a particular focus o
 ### 🔒 Veracode Tools [Now Unsupported]
 
 > [!NOTE]
-> As of October 2026, I no longer have a Veracode license, so I can't verify whether the following still works as Veracode's technology stack evolves.
+> As of October 2026, I no longer have a Veracode license, so I can't verify whether the following still works as Veracode's technology stack evolves. I have changed the licensing of the following to Unlicense, barring VeracodeReportConverter-Portable, which is MIT.
 
 - **[veracode-tui](https://github.com/dipsylala/veracode-tui)** - Terminal User Interface for Veracode (Go)
 - **[veracode-api](https://github.com/dipsylala/veracode-api)** - Single-binary CLI for querying Veracode platform findings (SAST, DAST, SCA) via the REST API - no runtime dependencies (Go)
