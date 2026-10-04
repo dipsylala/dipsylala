@@ -36,6 +36,7 @@ I build tools and automation for application security, with a particular focus o
 
 - **[veracode-tui](https://github.com/dipsylala/veracode-tui)** - Terminal User Interface for Veracode (Go)
 - **[veracode-api](https://github.com/dipsylala/veracode-api)** - Single-binary CLI for querying Veracode platform findings (SAST, DAST, SCA) via the REST API - no runtime dependencies (Go)
+- **[VeracodeReportConverter-Portable](https://github.com/dipsylala/VeracodeReportConverter-Portable)** - Converts Veracode Detailed XML reports to CSV, with optional SCA reports and inclusion of fixed flaws. Supports standalone releases with the runtime included (C#/.NET Core)
 - **[veracode-mcp](https://github.com/dipsylala/veracode-mcp)** - MCP Server for Veracode integration ⭐
 - **[veracode-skills](https://github.com/dipsylala/veracode-skills)** & **[veracode-agents](https://github.com/dipsylala/veracode-agents)** - Skills and agents for Veracode automation of the MCP
 - **[veracode-compensating-controls](https://github.com/dipsylala/veracode-compensating-controls)** - A Skill for managing compensating controls for Veracode findings
