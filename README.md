@@ -67,7 +67,6 @@ Tools:       Veracode | MCP | Terminal UI | Security Analysis
 
 ## 📫 Let's Connect
 
-- 🐘 Mastodon: [@BranMacMuffin@ioc.exchange](https://ioc.exchange/@BranMacMuffin)
 - 🦋 Bluesky: [@branmacmuffin.bsky.social](https://bsky.app/profile/branmacmuffin.bsky.social)
 - 💼 GitHub: You're already here!
 
