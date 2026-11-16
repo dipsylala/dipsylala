@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dipsy Lala
 
-> Application Security Consultant | Pentester | Tool Builder
+> Researcher | Pentester | Tool Builder
 
 ## 🔐 What I Do
 
